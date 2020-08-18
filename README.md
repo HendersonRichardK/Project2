@@ -53,3 +53,13 @@
  * os
 
 **Methods:**  The methods we plan to use will include linear regression machine learning models as well as a deep learning model. We want to explore the different models to see which one can best predict the future price of Bitcoin.
+
+**Models:** 
+ * Linear Regression
+ * XGBoost
+ * Cross-Validation
+ * Deep Learning Model
+ * Deep Tree
+ * Chained Multioutput Regression
+
+
