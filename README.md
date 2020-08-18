@@ -23,7 +23,7 @@
  * Other economic data
  
  **Data Sources:**  
- * Kraken API - Cryptocurrency Historical Data○Bitcoin○Ethereum○Ripple●
+ * Kraken API - Cryptocurrency Historical Data - Bitcoin, Ethereum, Ripple
  * US Treasury - Treasury Bond Yield Historical Data
  * Investing.com - Stock Index & Commodity Historical 
  
